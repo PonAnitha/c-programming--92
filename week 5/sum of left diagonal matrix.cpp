@@ -24,6 +24,6 @@ int main()
 			}
 		}
 	}
-	printf("The sum of right diagonal elements is %d",sum);
+	printf("The sum of left  diagonal elements is %d",sum);
 	return 0;
 }
